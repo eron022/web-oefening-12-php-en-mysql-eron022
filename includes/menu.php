@@ -16,6 +16,9 @@
 					<li class="nav-item">
 						<a href="index.php?page=deelnemen" class="nav-link">Deelnemen</a>
 					</li>
+					<li class="nav-item">
+						<a href="index.php?page=login" class="nav-link">Login</a>
+					</li>
 				</ul>
 			</div>
 			<button class="navbar-toggler" type="button"

@@ -32,6 +32,9 @@
 					<li class="nav-item">
 						<a href="deelnemen.php" class="nav-link">Deelnemen</a>
 					</li>
+					<li class="nav-item">
+						<a href="login.php" class="nav-link">Login</a>
+					</li>
 				</ul>
 			</div>
 			<button class="navbar-toggler" type="button"

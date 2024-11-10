@@ -41,6 +41,7 @@ echo
                 <h4>Neem deel</h4>
                 <p><a href="deelnemen.php"><img src="plaatjes/deelnemen.jpg" alt="Neem deel aan de wedstrijd" class="img-fluid rounded"></a>
             </div>
+            
         </div>
  
             <?php
